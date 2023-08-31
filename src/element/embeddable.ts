@@ -58,6 +58,7 @@ const ALLOWED_DOMAINS = new Set([
   "*.simplepdf.eu",
   "stackblitz.com",
   "val.town",
+  "giphy.com",
 ]);
 
 const createSrcDoc = (body: string) => {
