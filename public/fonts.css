@@ -5,6 +5,18 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Virgil2";
+  src: url("VirgilNew2023002A-Regular.woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Virgil3";
+  src: url("VirgilNew2023002B-Regular.woff2");
+  font-display: swap;
+}
+
 /* https://github.com/microsoft/cascadia-code */
 @font-face {
   font-family: "Cascadia";

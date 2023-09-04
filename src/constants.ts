@@ -100,11 +100,11 @@ export const FONT_FAMILY = {
   },
   NORMAL: {
     fontFamilyId: 2,
-    fontFamily: "Helvetica",
+    fontFamily: "Virgil2",
   },
   CODE: {
     fontFamilyId: 3,
-    fontFamily: "Cascadia",
+    fontFamily: "Virgil3",
   },
 } as const;
 
