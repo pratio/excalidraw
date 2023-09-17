@@ -126,9 +126,7 @@ exports[`given element A and group of elements B and given both are selected whe
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -169,9 +167,7 @@ exports[`given element A and group of elements B and given both are selected whe
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -241,9 +237,7 @@ exports[`given element A and group of elements B and given both are selected whe
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -451,7 +445,7 @@ exports[`given element A and group of elements B and given both are selected whe
 
 exports[`given element A and group of elements B and given both are selected when user clicks on B, on pointer up only elements from B should be selected > [end of test] number of elements 1`] = `0`;
 
-exports[`given element A and group of elements B and given both are selected when user clicks on B, on pointer up only elements from B should be selected > [end of test] number of renders 1`] = `22`;
+exports[`given element A and group of elements B and given both are selected when user clicks on B, on pointer up only elements from B should be selected > [end of test] number of renders 1`] = `21`;
 
 exports[`given element A and group of elements B and given both are selected when user shift-clicks on B, on pointer up only element A should be selected > [end of test] appState 1`] = `
 {
@@ -521,25 +515,16 @@ exports[`given element A and group of elements B and given both are selected whe
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-    "id1": true,
-    "id2": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
   "selectedElementIds": {
-    "id1": true,
+    "id0": true,
   },
   "selectedElementsAreBeingDragged": false,
-  "selectedGroupIds": {
-    "id0": true,
-    "id1": true,
-    "id2": true,
-    "id4": false,
-  },
+  "selectedGroupIds": {},
   "selectedLinearElement": null,
   "selectionElement": null,
   "shouldCacheIgnoreZoom": false,
@@ -581,9 +566,7 @@ exports[`given element A and group of elements B and given both are selected whe
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -624,9 +607,7 @@ exports[`given element A and group of elements B and given both are selected whe
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -696,9 +677,7 @@ exports[`given element A and group of elements B and given both are selected whe
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -792,121 +771,13 @@ exports[`given element A and group of elements B and given both are selected whe
         },
       ],
     },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-          "id2": true,
-        },
-        "selectedGroupIds": {
-          "id4": true,
-        },
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 100,
-          "id": "id1",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 2019559783,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 2,
-          "versionNonce": 1116226695,
-          "width": 100,
-          "x": 110,
-          "y": 110,
-        },
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [
-            "id4",
-          ],
-          "height": 100,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 493213705,
-          "width": 100,
-          "x": 0,
-          "y": 0,
-        },
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [
-            "id4",
-          ],
-          "height": 100,
-          "id": "id2",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 238820263,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 915032327,
-          "width": 100,
-          "x": 220,
-          "y": 220,
-        },
-      ],
-    },
   ],
 }
 `;
 
 exports[`given element A and group of elements B and given both are selected when user shift-clicks on B, on pointer up only element A should be selected > [end of test] number of elements 1`] = `0`;
 
-exports[`given element A and group of elements B and given both are selected when user shift-clicks on B, on pointer up only element A should be selected > [end of test] number of renders 1`] = `20`;
+exports[`given element A and group of elements B and given both are selected when user shift-clicks on B, on pointer up only element A should be selected > [end of test] number of renders 1`] = `18`;
 
 exports[`regression tests > Cmd/Ctrl-click exclusively select element under pointer > [end of test] appState 1`] = `
 {
@@ -1027,9 +898,7 @@ exports[`regression tests > Cmd/Ctrl-click exclusively select element under poin
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -1070,9 +939,7 @@ exports[`regression tests > Cmd/Ctrl-click exclusively select element under poin
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -1297,9 +1164,7 @@ exports[`regression tests > Cmd/Ctrl-click exclusively select element under poin
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id7": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -1734,7 +1599,7 @@ exports[`regression tests > Cmd/Ctrl-click exclusively select element under poin
 
 exports[`regression tests > Cmd/Ctrl-click exclusively select element under pointer > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > Cmd/Ctrl-click exclusively select element under pointer > [end of test] number of renders 1`] = `30`;
+exports[`regression tests > Cmd/Ctrl-click exclusively select element under pointer > [end of test] number of renders 1`] = `28`;
 
 exports[`regression tests > Drags selected element when hitting only bounding box and keeps element selected > [end of test] appState 1`] = `
 {
@@ -1804,16 +1669,12 @@ exports[`regression tests > Drags selected element when hitting only bounding bo
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -1857,9 +1718,7 @@ exports[`regression tests > Drags selected element when hitting only bounding bo
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -1895,56 +1754,13 @@ exports[`regression tests > Drags selected element when hitting only bounding bo
         },
       ],
     },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 2,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "ellipse",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 1150084233,
-          "width": 10,
-          "x": 25,
-          "y": 25,
-        },
-      ],
-    },
   ],
 }
 `;
 
 exports[`regression tests > Drags selected element when hitting only bounding box and keeps element selected > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > Drags selected element when hitting only bounding box and keeps element selected > [end of test] number of renders 1`] = `10`;
+exports[`regression tests > Drags selected element when hitting only bounding box and keeps element selected > [end of test] number of renders 1`] = `8`;
 
 exports[`regression tests > adjusts z order when grouping > [end of test] appState 1`] = `
 {
@@ -2070,9 +1886,7 @@ exports[`regression tests > adjusts z order when grouping > [end of test] histor
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -2113,9 +1927,7 @@ exports[`regression tests > adjusts z order when grouping > [end of test] histor
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -2185,9 +1997,7 @@ exports[`regression tests > adjusts z order when grouping > [end of test] histor
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -2465,9 +2275,7 @@ exports[`regression tests > alt-drag duplicates an element > [end of test] appSt
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
@@ -2518,9 +2326,7 @@ exports[`regression tests > alt-drag duplicates an element > [end of test] histo
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -2634,7 +2440,7 @@ exports[`regression tests > alt-drag duplicates an element > [end of test] histo
 
 exports[`regression tests > alt-drag duplicates an element > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > alt-drag duplicates an element > [end of test] number of renders 1`] = `10`;
+exports[`regression tests > alt-drag duplicates an element > [end of test] number of renders 1`] = `11`;
 
 exports[`regression tests > arrow keys > [end of test] appState 1`] = `
 {
@@ -2709,9 +2515,7 @@ exports[`regression tests > arrow keys > [end of test] appState 1`] = `
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -2755,9 +2559,7 @@ exports[`regression tests > arrow keys > [end of test] history 1`] = `
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -2799,7 +2601,7 @@ exports[`regression tests > arrow keys > [end of test] history 1`] = `
 
 exports[`regression tests > arrow keys > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > arrow keys > [end of test] number of renders 1`] = `14`;
+exports[`regression tests > arrow keys > [end of test] number of renders 1`] = `8`;
 
 exports[`regression tests > can drag element that covers another element, while another elem is selected > [end of test] appState 1`] = `
 {
@@ -2869,16 +2671,12 @@ exports[`regression tests > can drag element that covers another element, while 
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id2": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id1": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -2922,9 +2720,7 @@ exports[`regression tests > can drag element that covers another element, while 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -2965,9 +2761,7 @@ exports[`regression tests > can drag element that covers another element, while 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -3037,9 +2831,7 @@ exports[`regression tests > can drag element that covers another element, while 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -3101,107 +2893,6 @@ exports[`regression tests > can drag element that covers another element, while 
           "width": 200,
           "x": 100,
           "y": 100,
-        },
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 350,
-          "id": "id2",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 2,
-          },
-          "seed": 238820263,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "ellipse",
-          "updated": 1,
-          "version": 2,
-          "versionNonce": 1604849351,
-          "width": 350,
-          "x": 300,
-          "y": 300,
-        },
-      ],
-    },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 200,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 2,
-          "versionNonce": 453191,
-          "width": 200,
-          "x": 100,
-          "y": 100,
-        },
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 200,
-          "id": "id1",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 2019559783,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 493213705,
-          "width": 200,
-          "x": 300,
-          "y": 300,
         },
         {
           "angle": 0,
@@ -3240,303 +2931,9 @@ exports[`regression tests > can drag element that covers another element, while 
 
 exports[`regression tests > can drag element that covers another element, while another elem is selected > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > can drag element that covers another element, while another elem is selected > [end of test] number of renders 1`] = `19`;
+exports[`regression tests > can drag element that covers another element, while another elem is selected > [end of test] number of renders 1`] = `16`;
 
 exports[`regression tests > change the properties of a shape > [end of test] appState 1`] = `
-{
-  "activeEmbeddable": null,
-  "activeTool": {
-    "customType": null,
-    "lastActiveTool": null,
-    "locked": false,
-    "type": "selection",
-  },
-  "collaborators": Map {},
-  "contextMenu": null,
-  "currentChartType": "bar",
-  "currentItemBackgroundColor": "#ffc9c9",
-  "currentItemEndArrowhead": "arrow",
-  "currentItemFillStyle": "hachure",
-  "currentItemFontFamily": 1,
-  "currentItemFontSize": 20,
-  "currentItemOpacity": 100,
-  "currentItemRoughness": 1,
-  "currentItemRoundness": "round",
-  "currentItemStartArrowhead": null,
-  "currentItemStrokeColor": "#1971c2",
-  "currentItemStrokeStyle": "solid",
-  "currentItemStrokeWidth": 1,
-  "currentItemTextAlign": "left",
-  "cursorButton": "up",
-  "defaultSidebarDockedPreference": false,
-  "draggingElement": null,
-  "editingElement": null,
-  "editingFrame": null,
-  "editingGroupId": null,
-  "editingLinearElement": null,
-  "elementsToHighlight": null,
-  "errorMessage": null,
-  "exportBackground": true,
-  "exportEmbedScene": false,
-  "exportScale": 1,
-  "exportWithDarkMode": false,
-  "fileHandle": null,
-  "frameRendering": {
-    "clip": true,
-    "enabled": true,
-    "name": true,
-    "outline": true,
-  },
-  "frameToHighlight": null,
-  "gridSize": null,
-  "height": 768,
-  "isBindingEnabled": true,
-  "isLoading": false,
-  "isResizing": false,
-  "isRotating": false,
-  "lastPointerDownWith": "mouse",
-  "multiElement": null,
-  "name": "Untitled-201933152653",
-  "offsetLeft": 0,
-  "offsetTop": 0,
-  "openDialog": null,
-  "openMenu": null,
-  "openPopup": "elementStroke",
-  "openSidebar": null,
-  "pasteDialog": {
-    "data": null,
-    "shown": false,
-  },
-  "penDetected": false,
-  "penMode": false,
-  "pendingImageElementId": null,
-  "previousSelectedElementIds": {},
-  "resizingElement": null,
-  "scrollX": 0,
-  "scrollY": 0,
-  "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
-  "selectedElementsAreBeingDragged": false,
-  "selectedGroupIds": {},
-  "selectedLinearElement": null,
-  "selectionElement": null,
-  "shouldCacheIgnoreZoom": false,
-  "showHyperlinkPopup": false,
-  "showStats": false,
-  "showWelcomeScreen": true,
-  "startBoundElement": null,
-  "suggestedBindings": [],
-  "theme": "light",
-  "toast": null,
-  "viewBackgroundColor": "#ffffff",
-  "viewModeEnabled": false,
-  "width": 1024,
-  "zenModeEnabled": false,
-  "zoom": {
-    "value": 1,
-  },
-}
-`;
-
-exports[`regression tests > change the properties of a shape > [end of test] history 1`] = `
-{
-  "recording": false,
-  "redoStack": [],
-  "stateHistory": [
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {},
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [],
-    },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 2,
-          "versionNonce": 453191,
-          "width": 10,
-          "x": 10,
-          "y": 10,
-        },
-      ],
-    },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "#ffec99",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 2019559783,
-          "width": 10,
-          "x": 10,
-          "y": 10,
-        },
-      ],
-    },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "#ffc9c9",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 4,
-          "versionNonce": 1116226695,
-          "width": 10,
-          "x": 10,
-          "y": 10,
-        },
-      ],
-    },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "#ffc9c9",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1971c2",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 5,
-          "versionNonce": 238820263,
-          "width": 10,
-          "x": 10,
-          "y": 10,
-        },
-      ],
-    },
-  ],
-}
-`;
-
-exports[`regression tests > change the properties of a shape > [end of test] number of elements 1`] = `0`;
-
-exports[`regression tests > change the properties of a shape > [end of test] number of renders 1`] = `11`;
-
-exports[`regression tests > click on an element and drag it > [dragged] appState 1`] = `
 {
   "activeEmbeddable": null,
   "activeTool": {
@@ -3604,16 +3001,12 @@ exports[`regression tests > click on an element and drag it > [dragged] appState
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -3636,39 +3029,7 @@ exports[`regression tests > click on an element and drag it > [dragged] appState
 }
 `;
 
-exports[`regression tests > click on an element and drag it > [dragged] element 0 1`] = `
-{
-  "angle": 0,
-  "backgroundColor": "transparent",
-  "boundElements": null,
-  "fillStyle": "hachure",
-  "frameId": null,
-  "groupIds": [],
-  "height": 10,
-  "id": "id0",
-  "isDeleted": false,
-  "link": null,
-  "locked": false,
-  "opacity": 100,
-  "roughness": 1,
-  "roundness": {
-    "type": 3,
-  },
-  "seed": 1278240551,
-  "strokeColor": "#1e1e1e",
-  "strokeStyle": "solid",
-  "strokeWidth": 1,
-  "type": "rectangle",
-  "updated": 1,
-  "version": 3,
-  "versionNonce": 1150084233,
-  "width": 10,
-  "x": 20,
-  "y": 20,
-}
-`;
-
-exports[`regression tests > click on an element and drag it > [dragged] history 1`] = `
+exports[`regression tests > change the properties of a shape > [end of test] history 1`] = `
 {
   "recording": false,
   "redoStack": [],
@@ -3689,9 +3050,7 @@ exports[`regression tests > click on an element and drag it > [dragged] history 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -3727,56 +3086,13 @@ exports[`regression tests > click on an element and drag it > [dragged] history 
         },
       ],
     },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 1150084233,
-          "width": 10,
-          "x": 20,
-          "y": 20,
-        },
-      ],
-    },
   ],
 }
 `;
 
-exports[`regression tests > click on an element and drag it > [dragged] number of elements 1`] = `1`;
+exports[`regression tests > change the properties of a shape > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > click on an element and drag it > [dragged] number of renders 1`] = `10`;
+exports[`regression tests > change the properties of a shape > [end of test] number of renders 1`] = `8`;
 
 exports[`regression tests > click on an element and drag it > [end of test] appState 1`] = `
 {
@@ -3846,16 +3162,12 @@ exports[`regression tests > click on an element and drag it > [end of test] appS
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -3899,9 +3211,7 @@ exports[`regression tests > click on an element and drag it > [end of test] hist
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -3937,99 +3247,13 @@ exports[`regression tests > click on an element and drag it > [end of test] hist
         },
       ],
     },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 1150084233,
-          "width": 10,
-          "x": 20,
-          "y": 20,
-        },
-      ],
-    },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 4,
-          "versionNonce": 400692809,
-          "width": 10,
-          "x": 10,
-          "y": 10,
-        },
-      ],
-    },
   ],
 }
 `;
 
 exports[`regression tests > click on an element and drag it > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > click on an element and drag it > [end of test] number of renders 1`] = `12`;
+exports[`regression tests > click on an element and drag it > [end of test] number of renders 1`] = `8`;
 
 exports[`regression tests > click to select a shape > [end of test] appState 1`] = `
 {
@@ -4099,16 +3323,12 @@ exports[`regression tests > click to select a shape > [end of test] appState 1`]
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id1": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -4152,9 +3372,7 @@ exports[`regression tests > click to select a shape > [end of test] history 1`] 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -4195,9 +3413,7 @@ exports[`regression tests > click to select a shape > [end of test] history 1`] 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -4268,7 +3484,7 @@ exports[`regression tests > click to select a shape > [end of test] history 1`] 
 
 exports[`regression tests > click to select a shape > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > click to select a shape > [end of test] number of renders 1`] = `13`;
+exports[`regression tests > click to select a shape > [end of test] number of renders 1`] = `12`;
 
 exports[`regression tests > click-drag to select a group > [end of test] appState 1`] = `
 {
@@ -4338,9 +3554,7 @@ exports[`regression tests > click-drag to select a group > [end of test] appStat
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id2": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
@@ -4392,9 +3606,7 @@ exports[`regression tests > click-drag to select a group > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -4435,9 +3647,7 @@ exports[`regression tests > click-drag to select a group > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -4507,9 +3717,7 @@ exports[`regression tests > click-drag to select a group > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -4609,7 +3817,7 @@ exports[`regression tests > click-drag to select a group > [end of test] history
 
 exports[`regression tests > click-drag to select a group > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > click-drag to select a group > [end of test] number of renders 1`] = `18`;
+exports[`regression tests > click-drag to select a group > [end of test] number of renders 1`] = `17`;
 
 exports[`regression tests > deleting last but one element in editing group should unselect the group > [end of test] appState 1`] = `
 {
@@ -4732,9 +3940,7 @@ exports[`regression tests > deleting last but one element in editing group shoul
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -4775,9 +3981,7 @@ exports[`regression tests > deleting last but one element in editing group shoul
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -5081,7 +4285,7 @@ exports[`regression tests > deleting last but one element in editing group shoul
 
 exports[`regression tests > deleting last but one element in editing group should unselect the group > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > deleting last but one element in editing group should unselect the group > [end of test] number of renders 1`] = `20`;
+exports[`regression tests > deleting last but one element in editing group should unselect the group > [end of test] number of renders 1`] = `19`;
 
 exports[`regression tests > deselects group of selected elements on pointer down when pointer doesn't hit any element > [end of test] appState 1`] = `
 {
@@ -5108,37 +4312,9 @@ exports[`regression tests > deselects group of selected elements on pointer down
   "currentItemStrokeStyle": "solid",
   "currentItemStrokeWidth": 1,
   "currentItemTextAlign": "left",
-  "cursorButton": "down",
+  "cursorButton": "up",
   "defaultSidebarDockedPreference": false,
-  "draggingElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id3",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 400692809,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 500,
-    "y": 500,
-  },
+  "draggingElement": null,
   "editingElement": null,
   "editingFrame": null,
   "editingGroupId": null,
@@ -5179,47 +4355,18 @@ exports[`regression tests > deselects group of selected elements on pointer down
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-    "id1": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {},
+  "selectedElementIds": {
+    "id0": true,
+  },
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
-  "selectionElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id3",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 400692809,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 500,
-    "y": 500,
-  },
+  "selectionElement": null,
   "shouldCacheIgnoreZoom": false,
   "showHyperlinkPopup": false,
   "showStats": false,
@@ -5259,9 +4406,7 @@ exports[`regression tests > deselects group of selected elements on pointer down
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -5302,9 +4447,7 @@ exports[`regression tests > deselects group of selected elements on pointer down
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -5375,7 +4518,7 @@ exports[`regression tests > deselects group of selected elements on pointer down
 
 exports[`regression tests > deselects group of selected elements on pointer down when pointer doesn't hit any element > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > deselects group of selected elements on pointer down when pointer doesn't hit any element > [end of test] number of renders 1`] = `14`;
+exports[`regression tests > deselects group of selected elements on pointer down when pointer doesn't hit any element > [end of test] number of renders 1`] = `13`;
 
 exports[`regression tests > deselects group of selected elements on pointer up when pointer hits common bounding box without hitting any element > [end of test] appState 1`] = `
 {
@@ -5402,37 +4545,9 @@ exports[`regression tests > deselects group of selected elements on pointer up w
   "currentItemStrokeStyle": "solid",
   "currentItemStrokeWidth": 1,
   "currentItemTextAlign": "left",
-  "cursorButton": "up",
+  "cursorButton": "down",
   "defaultSidebarDockedPreference": false,
-  "draggingElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id3",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 400692809,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 50,
-    "y": 50,
-  },
+  "draggingElement": null,
   "editingElement": null,
   "editingFrame": null,
   "editingGroupId": null,
@@ -5475,7 +4590,6 @@ exports[`regression tests > deselects group of selected elements on pointer up w
   "pendingImageElementId": null,
   "previousSelectedElementIds": {
     "id0": true,
-    "id1": true,
   },
   "resizingElement": null,
   "scrollX": 0,
@@ -5485,7 +4599,35 @@ exports[`regression tests > deselects group of selected elements on pointer up w
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
-  "selectionElement": null,
+  "selectionElement": {
+    "angle": 0,
+    "backgroundColor": "transparent",
+    "boundElements": null,
+    "fillStyle": "hachure",
+    "frameId": null,
+    "groupIds": [],
+    "height": 0,
+    "id": "id3",
+    "isDeleted": false,
+    "link": null,
+    "locked": false,
+    "opacity": 100,
+    "roughness": 1,
+    "roundness": {
+      "type": 2,
+    },
+    "seed": 400692809,
+    "strokeColor": "#1e1e1e",
+    "strokeStyle": "solid",
+    "strokeWidth": 1,
+    "type": "selection",
+    "updated": 1,
+    "version": 1,
+    "versionNonce": 0,
+    "width": 0,
+    "x": 50,
+    "y": 50,
+  },
   "shouldCacheIgnoreZoom": false,
   "showHyperlinkPopup": false,
   "showStats": false,
@@ -5525,9 +4667,7 @@ exports[`regression tests > deselects group of selected elements on pointer up w
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -5568,9 +4708,7 @@ exports[`regression tests > deselects group of selected elements on pointer up w
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -5668,37 +4806,9 @@ exports[`regression tests > deselects selected element on pointer down when poin
   "currentItemStrokeStyle": "solid",
   "currentItemStrokeWidth": 1,
   "currentItemTextAlign": "left",
-  "cursorButton": "down",
+  "cursorButton": "up",
   "defaultSidebarDockedPreference": false,
-  "draggingElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id1",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 2019559783,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 110,
-    "y": 110,
-  },
+  "draggingElement": null,
   "editingElement": null,
   "editingFrame": null,
   "editingGroupId": null,
@@ -5739,9 +4849,7 @@ exports[`regression tests > deselects selected element on pointer down when poin
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
@@ -5750,35 +4858,7 @@ exports[`regression tests > deselects selected element on pointer down when poin
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
-  "selectionElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id1",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 2019559783,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 110,
-    "y": 110,
-  },
+  "selectionElement": null,
   "shouldCacheIgnoreZoom": false,
   "showHyperlinkPopup": false,
   "showStats": false,
@@ -5818,9 +4898,7 @@ exports[`regression tests > deselects selected element on pointer down when poin
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -5862,7 +4940,7 @@ exports[`regression tests > deselects selected element on pointer down when poin
 
 exports[`regression tests > deselects selected element on pointer down when pointer doesn't hit any element > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > deselects selected element on pointer down when pointer doesn't hit any element > [end of test] number of renders 1`] = `9`;
+exports[`regression tests > deselects selected element on pointer down when pointer doesn't hit any element > [end of test] number of renders 1`] = `8`;
 
 exports[`regression tests > deselects selected element, on pointer up, when click hits element bounding box but doesn't hit the element > [end of test] appState 1`] = `
 {
@@ -5932,9 +5010,7 @@ exports[`regression tests > deselects selected element, on pointer up, when clic
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
@@ -5983,9 +5059,7 @@ exports[`regression tests > deselects selected element, on pointer up, when clic
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -6027,7 +5101,7 @@ exports[`regression tests > deselects selected element, on pointer up, when clic
 
 exports[`regression tests > deselects selected element, on pointer up, when click hits element bounding box but doesn't hit the element > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > deselects selected element, on pointer up, when click hits element bounding box but doesn't hit the element > [end of test] number of renders 1`] = `9`;
+exports[`regression tests > deselects selected element, on pointer up, when click hits element bounding box but doesn't hit the element > [end of test] number of renders 1`] = `8`;
 
 exports[`regression tests > double click to edit a group > [end of test] appState 1`] = `
 {
@@ -6148,9 +5222,7 @@ exports[`regression tests > double click to edit a group > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -6191,9 +5263,7 @@ exports[`regression tests > double click to edit a group > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -6263,9 +5333,7 @@ exports[`regression tests > double click to edit a group > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -6546,17 +5614,13 @@ exports[`regression tests > drags selected elements from point inside common bou
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-    "id1": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
   "selectedElementIds": {
     "id0": true,
-    "id1": true,
   },
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
@@ -6601,9 +5665,7 @@ exports[`regression tests > drags selected elements from point inside common bou
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -6644,9 +5706,7 @@ exports[`regression tests > drags selected elements from point inside common bou
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -6711,86 +5771,13 @@ exports[`regression tests > drags selected elements from point inside common bou
         },
       ],
     },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-          "id1": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 1604849351,
-          "width": 10,
-          "x": 25,
-          "y": 25,
-        },
-        {
-          "angle": 0,
-          "backgroundColor": "transparent",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id1",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 2,
-          },
-          "seed": 2019559783,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "ellipse",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 23633383,
-          "width": 10,
-          "x": 135,
-          "y": 135,
-        },
-      ],
-    },
   ],
 }
 `;
 
 exports[`regression tests > drags selected elements from point inside common bounding box that doesn't hit any element and keeps elements selected after dragging > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > drags selected elements from point inside common bounding box that doesn't hit any element and keeps elements selected after dragging > [end of test] number of renders 1`] = `15`;
+exports[`regression tests > drags selected elements from point inside common bounding box that doesn't hit any element and keeps elements selected after dragging > [end of test] number of renders 1`] = `13`;
 
 exports[`regression tests > draw every type of shape > [end of test] appState 1`] = `
 {
@@ -6909,9 +5896,7 @@ exports[`regression tests > draw every type of shape > [end of test] history 1`]
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -6952,9 +5937,7 @@ exports[`regression tests > draw every type of shape > [end of test] history 1`]
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -7024,9 +6007,7 @@ exports[`regression tests > draw every type of shape > [end of test] history 1`]
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -8881,7 +7862,7 @@ exports[`regression tests > given a group of selected elements with an element t
   "currentItemStrokeStyle": "solid",
   "currentItemStrokeWidth": 1,
   "currentItemTextAlign": "left",
-  "cursorButton": "up",
+  "cursorButton": "down",
   "defaultSidebarDockedPreference": false,
   "draggingElement": null,
   "editingElement": null,
@@ -8926,7 +7907,6 @@ exports[`regression tests > given a group of selected elements with an element t
   "pendingImageElementId": null,
   "previousSelectedElementIds": {
     "id0": true,
-    "id2": true,
   },
   "resizingElement": null,
   "scrollX": 0,
@@ -8938,7 +7918,35 @@ exports[`regression tests > given a group of selected elements with an element t
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
-  "selectionElement": null,
+  "selectionElement": {
+    "angle": 0,
+    "backgroundColor": "transparent",
+    "boundElements": null,
+    "fillStyle": "hachure",
+    "frameId": null,
+    "groupIds": [],
+    "height": 0,
+    "id": "id4",
+    "isDeleted": false,
+    "link": null,
+    "locked": false,
+    "opacity": 100,
+    "roughness": 1,
+    "roundness": {
+      "type": 2,
+    },
+    "seed": 493213705,
+    "strokeColor": "#1e1e1e",
+    "strokeStyle": "solid",
+    "strokeWidth": 1,
+    "type": "selection",
+    "updated": 1,
+    "version": 1,
+    "versionNonce": 0,
+    "width": 0,
+    "x": 110,
+    "y": 160,
+  },
   "shouldCacheIgnoreZoom": false,
   "showHyperlinkPopup": false,
   "showStats": false,
@@ -8978,9 +7986,7 @@ exports[`regression tests > given a group of selected elements with an element t
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -9021,9 +8027,7 @@ exports[`regression tests > given a group of selected elements with an element t
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -9093,9 +8097,7 @@ exports[`regression tests > given a group of selected elements with an element t
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -9319,9 +8321,7 @@ exports[`regression tests > given a selected element A and a not selected elemen
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -9362,9 +8362,7 @@ exports[`regression tests > given a selected element A and a not selected elemen
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -9974,9 +8972,7 @@ exports[`regression tests > key 2 selects rectangle tool > [end of test] appStat
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -10020,9 +9016,7 @@ exports[`regression tests > key 2 selects rectangle tool > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -10139,9 +9133,7 @@ exports[`regression tests > key 3 selects diamond tool > [end of test] appState 
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -10185,9 +9177,7 @@ exports[`regression tests > key 3 selects diamond tool > [end of test] history 1
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -10304,9 +9294,7 @@ exports[`regression tests > key 4 selects ellipse tool > [end of test] appState 
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -10350,9 +9338,7 @@ exports[`regression tests > key 4 selects ellipse tool > [end of test] history 1
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -11261,9 +10247,7 @@ exports[`regression tests > key d selects diamond tool > [end of test] appState 
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -11307,9 +10291,7 @@ exports[`regression tests > key d selects diamond tool > [end of test] history 1
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -11629,9 +10611,7 @@ exports[`regression tests > key o selects ellipse tool > [end of test] appState 
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -11675,9 +10655,7 @@ exports[`regression tests > key o selects ellipse tool > [end of test] history 1
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -11977,9 +10955,7 @@ exports[`regression tests > key r selects rectangle tool > [end of test] appStat
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -12023,9 +10999,7 @@ exports[`regression tests > key r selects rectangle tool > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -12196,9 +11170,7 @@ exports[`regression tests > make a group and duplicate it > [end of test] histor
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -12239,9 +11211,7 @@ exports[`regression tests > make a group and duplicate it > [end of test] histor
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -12311,9 +11281,7 @@ exports[`regression tests > make a group and duplicate it > [end of test] histor
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -12728,7 +11696,7 @@ exports[`regression tests > make a group and duplicate it > [end of test] histor
 
 exports[`regression tests > make a group and duplicate it > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > make a group and duplicate it > [end of test] number of renders 1`] = `21`;
+exports[`regression tests > make a group and duplicate it > [end of test] number of renders 1`] = `20`;
 
 exports[`regression tests > noop interaction after undo shouldn't create history entry > [end of test] appState 1`] = `
 {
@@ -12851,9 +11819,7 @@ exports[`regression tests > noop interaction after undo shouldn't create history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -12894,9 +11860,7 @@ exports[`regression tests > noop interaction after undo shouldn't create history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -13277,14 +12241,14 @@ exports[`regression tests > shift click on selected element should deselect it o
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id0": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {},
+  "selectedElementIds": {
+    "id0": true,
+  },
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -13328,9 +12292,7 @@ exports[`regression tests > shift click on selected element should deselect it o
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -13497,9 +12459,7 @@ exports[`regression tests > shift-click to multiselect, then drag > [end of test
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -13540,9 +12500,7 @@ exports[`regression tests > shift-click to multiselect, then drag > [end of test
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -13813,9 +12771,7 @@ exports[`regression tests > should group elements and ungroup them > [end of tes
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -13856,9 +12812,7 @@ exports[`regression tests > should group elements and ungroup them > [end of tes
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -13928,9 +12882,7 @@ exports[`regression tests > should group elements and ungroup them > [end of tes
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -14244,7 +13196,7 @@ exports[`regression tests > should group elements and ungroup them > [end of tes
 
 exports[`regression tests > should group elements and ungroup them > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > should group elements and ungroup them > [end of test] number of renders 1`] = `22`;
+exports[`regression tests > should group elements and ungroup them > [end of test] number of renders 1`] = `21`;
 
 exports[`regression tests > should show fill icons when element has non transparent background > [end of test] appState 1`] = `
 {
@@ -14258,7 +13210,7 @@ exports[`regression tests > should show fill icons when element has non transpar
   "collaborators": Map {},
   "contextMenu": null,
   "currentChartType": "bar",
-  "currentItemBackgroundColor": "#ffc9c9",
+  "currentItemBackgroundColor": "transparent",
   "currentItemEndArrowhead": "arrow",
   "currentItemFillStyle": "hachure",
   "currentItemFontFamily": 1,
@@ -14305,7 +13257,7 @@ exports[`regression tests > should show fill icons when element has non transpar
   "offsetTop": 0,
   "openDialog": null,
   "openMenu": null,
-  "openPopup": "elementBackground",
+  "openPopup": null,
   "openSidebar": null,
   "pasteDialog": {
     "data": null,
@@ -14319,9 +13271,7 @@ exports[`regression tests > should show fill icons when element has non transpar
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -14365,9 +13315,7 @@ exports[`regression tests > should show fill icons when element has non transpar
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -14403,56 +13351,13 @@ exports[`regression tests > should show fill icons when element has non transpar
         },
       ],
     },
-    {
-      "appState": {
-        "editingGroupId": null,
-        "editingLinearElement": null,
-        "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
-        "selectedGroupIds": {},
-        "viewBackgroundColor": "#ffffff",
-      },
-      "elements": [
-        {
-          "angle": 0,
-          "backgroundColor": "#ffc9c9",
-          "boundElements": null,
-          "fillStyle": "hachure",
-          "frameId": null,
-          "groupIds": [],
-          "height": 10,
-          "id": "id0",
-          "isDeleted": false,
-          "link": null,
-          "locked": false,
-          "opacity": 100,
-          "roughness": 1,
-          "roundness": {
-            "type": 3,
-          },
-          "seed": 1278240551,
-          "strokeColor": "#1e1e1e",
-          "strokeStyle": "solid",
-          "strokeWidth": 1,
-          "type": "rectangle",
-          "updated": 1,
-          "version": 3,
-          "versionNonce": 2019559783,
-          "width": 10,
-          "x": 0,
-          "y": 0,
-        },
-      ],
-    },
   ],
 }
 `;
 
 exports[`regression tests > should show fill icons when element has non transparent background > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > should show fill icons when element has non transparent background > [end of test] number of renders 1`] = `10`;
+exports[`regression tests > should show fill icons when element has non transparent background > [end of test] number of renders 1`] = `8`;
 
 exports[`regression tests > single-clicking on a subgroup of a selected group should not alter selection > [end of test] appState 1`] = `
 {
@@ -14583,9 +13488,7 @@ exports[`regression tests > single-clicking on a subgroup of a selected group sh
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -14626,9 +13529,7 @@ exports[`regression tests > single-clicking on a subgroup of a selected group sh
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -14777,9 +13678,7 @@ exports[`regression tests > single-clicking on a subgroup of a selected group sh
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id5": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -14882,9 +13781,7 @@ exports[`regression tests > single-clicking on a subgroup of a selected group sh
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id6": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -15305,7 +14202,7 @@ exports[`regression tests > single-clicking on a subgroup of a selected group sh
 
 exports[`regression tests > single-clicking on a subgroup of a selected group should not alter selection > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > single-clicking on a subgroup of a selected group should not alter selection > [end of test] number of renders 1`] = `30`;
+exports[`regression tests > single-clicking on a subgroup of a selected group should not alter selection > [end of test] number of renders 1`] = `28`;
 
 exports[`regression tests > spacebar + drag scrolls the canvas > [end of test] appState 1`] = `
 {
@@ -15548,9 +14445,7 @@ exports[`regression tests > supports nested groups > [end of test] history 1`] =
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -15591,9 +14486,7 @@ exports[`regression tests > supports nested groups > [end of test] history 1`] =
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -15663,9 +14556,7 @@ exports[`regression tests > supports nested groups > [end of test] history 1`] =
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -16236,37 +15127,9 @@ exports[`regression tests > switches from group of selected elements to another 
   "currentItemStrokeStyle": "solid",
   "currentItemStrokeWidth": 1,
   "currentItemTextAlign": "left",
-  "cursorButton": "down",
+  "cursorButton": "up",
   "defaultSidebarDockedPreference": false,
-  "draggingElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id4",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 493213705,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0,
-  },
+  "draggingElement": null,
   "editingElement": null,
   "editingFrame": null,
   "editingGroupId": null,
@@ -16307,49 +15170,18 @@ exports[`regression tests > switches from group of selected elements to another 
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id1": true,
-    "id2": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
   "selectedElementIds": {
-    "id0": true,
+    "id1": true,
   },
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
-  "selectionElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id4",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 493213705,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0,
-  },
+  "selectionElement": null,
   "shouldCacheIgnoreZoom": false,
   "showHyperlinkPopup": false,
   "showStats": false,
@@ -16389,9 +15221,7 @@ exports[`regression tests > switches from group of selected elements to another 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -16432,9 +15262,7 @@ exports[`regression tests > switches from group of selected elements to another 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -16504,9 +15332,7 @@ exports[`regression tests > switches from group of selected elements to another 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id2": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -16606,7 +15432,7 @@ exports[`regression tests > switches from group of selected elements to another 
 
 exports[`regression tests > switches from group of selected elements to another element on pointer down > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > switches from group of selected elements to another element on pointer down > [end of test] number of renders 1`] = `18`;
+exports[`regression tests > switches from group of selected elements to another element on pointer down > [end of test] number of renders 1`] = `17`;
 
 exports[`regression tests > switches selected element on pointer down > [end of test] appState 1`] = `
 {
@@ -16633,37 +15459,9 @@ exports[`regression tests > switches selected element on pointer down > [end of 
   "currentItemStrokeStyle": "solid",
   "currentItemStrokeWidth": 1,
   "currentItemTextAlign": "left",
-  "cursorButton": "down",
+  "cursorButton": "up",
   "defaultSidebarDockedPreference": false,
-  "draggingElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id2",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 238820263,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0,
-  },
+  "draggingElement": null,
   "editingElement": null,
   "editingFrame": null,
   "editingGroupId": null,
@@ -16704,48 +15502,16 @@ exports[`regression tests > switches selected element on pointer down > [end of 
   "penDetected": false,
   "penMode": false,
   "pendingImageElementId": null,
-  "previousSelectedElementIds": {
-    "id1": true,
-  },
+  "previousSelectedElementIds": {},
   "resizingElement": null,
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id0": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
-  "selectionElement": {
-    "angle": 0,
-    "backgroundColor": "transparent",
-    "boundElements": null,
-    "fillStyle": "hachure",
-    "frameId": null,
-    "groupIds": [],
-    "height": 0,
-    "id": "id2",
-    "isDeleted": false,
-    "link": null,
-    "locked": false,
-    "opacity": 100,
-    "roughness": 1,
-    "roundness": {
-      "type": 2,
-    },
-    "seed": 238820263,
-    "strokeColor": "#1e1e1e",
-    "strokeStyle": "solid",
-    "strokeWidth": 1,
-    "type": "selection",
-    "updated": 1,
-    "version": 1,
-    "versionNonce": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0,
-  },
+  "selectionElement": null,
   "shouldCacheIgnoreZoom": false,
   "showHyperlinkPopup": false,
   "showStats": false,
@@ -16785,9 +15551,7 @@ exports[`regression tests > switches selected element on pointer down > [end of 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -16828,9 +15592,7 @@ exports[`regression tests > switches selected element on pointer down > [end of 
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -16901,7 +15663,7 @@ exports[`regression tests > switches selected element on pointer down > [end of 
 
 exports[`regression tests > switches selected element on pointer down > [end of test] number of elements 1`] = `0`;
 
-exports[`regression tests > switches selected element on pointer down > [end of test] number of renders 1`] = `13`;
+exports[`regression tests > switches selected element on pointer down > [end of test] number of renders 1`] = `12`;
 
 exports[`regression tests > two-finger scroll works > [end of test] appState 1`] = `
 {
@@ -17096,9 +15858,7 @@ exports[`regression tests > undo/redo drawing an element > [end of test] appStat
   "scrollX": 0,
   "scrollY": 0,
   "scrolledOutside": false,
-  "selectedElementIds": {
-    "id1": true,
-  },
+  "selectedElementIds": {},
   "selectedElementsAreBeingDragged": false,
   "selectedGroupIds": {},
   "selectedLinearElement": null,
@@ -17385,9 +16145,7 @@ exports[`regression tests > undo/redo drawing an element > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id0": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },
@@ -17428,9 +16186,7 @@ exports[`regression tests > undo/redo drawing an element > [end of test] history
         "editingGroupId": null,
         "editingLinearElement": null,
         "name": "Untitled-201933152653",
-        "selectedElementIds": {
-          "id1": true,
-        },
+        "selectedElementIds": {},
         "selectedGroupIds": {},
         "viewBackgroundColor": "#ffffff",
       },

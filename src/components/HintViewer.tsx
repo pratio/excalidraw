@@ -82,7 +82,8 @@ const getHints = ({ appState, isMobile, device, app }: HintViewerProps) => {
 
   if (activeTool.type === "selection") {
     if (
-      appState.draggingElement?.type === "selection" &&
+      appState.selectionElement &&
+      !appState.draggingElement &&
       !appState.editingElement &&
       !appState.editingLinearElement
     ) {
